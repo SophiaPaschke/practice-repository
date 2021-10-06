@@ -5,6 +5,6 @@ this is my first repository!
 
 I really hope this works...
 
-##Hi Sophia##
+## Hi Sophia
 
 Here's to Taylor Swift's reputation
